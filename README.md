@@ -34,7 +34,7 @@ All UnitBytes extraction engines are autonomous, tested against modern enterpris
 ### 📈 Search Trends & Reputation Intelligence
 | Engine | Description | Direct Run Link |
 | :--- | :--- | :---: |
-| **Google Trends Real-Time API** | Real-time trending searches, breakout keywords, historical interest curves, and geographic demand across 250+ countries. | [⚡ Run on Apify](https://apify.com/unitbytes/google-trends-scraper-api?fpr=939u3w) |
+| **Google Trends Real-Time API** | Real-time trending searches, breakout keywords, historical interest curves, and geographic demand across 250+ countries. | [⚡ Run on Apify](https://apify.com/unitbytes/google-trends-api?fpr=939u3w) |
 | **Facebook Marketplace Scraper** | Used vehicles, rental housing, electronics, and local bargain deals with 40+ structured fields without login. | [⚡ Run on Apify](https://apify.com/unitbytes/Facebook-Marketplace-Scraper?fpr=939u3w) |
 | **Google Maps Reviews & Local Guides** | Deleted/edited review tracking, Local Guide contributor reputation audit, and reviewer photo galleries. | [⚡ Run on Apify](https://apify.com/unitbytes/google-maps-contributor-scraper?fpr=939u3w) |
 | **OfferUp & Craigslist Scrapers** | Nationwide US classifieds, used cars, and regional bargain discovery. | [⚡ Run on Apify](https://apify.com/unitbytes/offerup-scraper?fpr=939u3w) |
