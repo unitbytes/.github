@@ -26,7 +26,7 @@ All UnitBytes extraction engines are autonomous, tested against modern enterpris
 ### 🛍️ APAC & Global E-Commerce Intelligence
 | Engine | Description | Direct Run Link |
 | :--- | :--- | :---: |
-| **Xiaohongshu (RedNote) Scraper** | Viral trend search, engagement ratios, sentiment analysis, HD image galleries, and unwatermarked MP4 reels. | [⚡ Run on Apify](https://apify.com/unitbytes/xiaohongshu-scraper?fpr=939u3w) |
+| **Xiaohongshu (RedNote) Scraper** | Viral trend search, engagement ratios, sentiment analysis, HD image galleries, and unwatermarked MP4 reels. | [⚡ Run on Apify](https://apify.com/unitbytes/xiaohongshu-rednote-trend-scraper?fpr=939u3w) |
 | **1688.com Wholesale & Factory Scraper** | Direct Chinese factory pricing, MOQ thresholds, tiered volume price breaks, and supplier verification. | [⚡ Run on Apify](https://apify.com/unitbytes/1688-scraper?fpr=939u3w) |
 | **GooFish (闲鱼 Xianyu) Scraper** | C2C secondary market deals, authentic seller Zhima credit, response latency, and 150+ product fields. | [⚡ Run on Apify](https://apify.com/unitbytes/goofish-xianyu-search-scraper?fpr=939u3w) |
 | **Alibaba.com B2B Sourcing Scraper** | Verified Gold Suppliers, Trade Assurance guarantees, factory audit reports, and tiered FOB pricing. | [⚡ Run on Apify](https://apify.com/unitbytes/alibaba-scraper?fpr=939u3w) |
