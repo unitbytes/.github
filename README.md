@@ -19,25 +19,46 @@
 
 </div>
 
-## 🚀 Flagship Data Engines on Apify Store
+## 🚀 Production Fleet on Apify Store (17 Specialized Engines)
 
 All UnitBytes extraction engines are autonomous, tested against modern enterprise bot mitigation, and deployable in 1 click:
 
-### 🛍️ APAC & Global E-Commerce Intelligence
-| Engine | Description | Direct Run Link |
-| :--- | :--- | :---: |
-| **Xiaohongshu (RedNote) Scraper** | Viral trend search, engagement ratios, sentiment analysis, HD image galleries, and unwatermarked MP4 reels. | [⚡ Run on Apify](https://apify.com/unitbytes/xiaohongshu-rednote-trend-scraper?fpr=939u3w) |
-| **1688.com Wholesale & Factory Scraper** | Direct Chinese factory pricing, MOQ thresholds, tiered volume price breaks, and supplier verification. | [⚡ Run on Apify](https://apify.com/unitbytes/1688-scraper?fpr=939u3w) |
-| **GooFish (闲鱼 Xianyu) Scraper** | C2C secondary market deals, authentic seller Zhima credit, response latency, and 150+ product fields. | [⚡ Run on Apify](https://apify.com/unitbytes/goofish-xianyu-search-scraper?fpr=939u3w) |
-| **Alibaba.com B2B Sourcing Scraper** | Verified Gold Suppliers, Trade Assurance guarantees, factory audit reports, and tiered FOB pricing. | [⚡ Run on Apify](https://apify.com/unitbytes/alibaba-scraper?fpr=939u3w) |
+### 🛍️ APAC & Global E-Commerce Sourcing
+| Engine | Description | Pricing (PPE) | Direct Run Link |
+| :--- | :--- | :---: | :---: |
+| **1688.com Wholesale & Factory Scraper** | Direct Chinese factory pricing, MOQ thresholds, tiered volume price breaks, and supplier verification. | $0.0015 / item | [⚡ Run on Apify](https://apify.com/unitbytes/1688-scraper?fpr=939u3w&fp_sid=gh_profile) |
+| **Alibaba.com B2B Sourcing Scraper** | Verified Gold Suppliers, Trade Assurance guarantees, factory audit reports, and tiered FOB pricing. | $0.0015 / item | [⚡ Run on Apify](https://apify.com/unitbytes/alibaba-scraper?fpr=939u3w&fp_sid=gh_profile) |
+| **Taobao & Tmall Catalog Scraper** | Real retail prices, sales counts, merchant ratings, 100% cookieless HD images. | $0.0015 / item | [⚡ Run on Apify](https://apify.com/unitbytes/taobao-tmall-scraper?fpr=939u3w&fp_sid=gh_profile) |
+| **GooFish (闲鱼 Xianyu) Search Scraper** | C2C secondary market deals, authentic seller Zhima credit, response latency, and 150+ product fields. | $0.002 / item | [⚡ Run on Apify](https://apify.com/unitbytes/goofish-xianyu-search-scraper?fpr=939u3w&fp_sid=gh_profile) |
+| **GooFish Seller Inventory & Reviews** | Seller Zhima credit scores, positive feedback ratings, and active catalog inventory. | $0.0035 / item | [⚡ Run on Apify](https://apify.com/unitbytes/goofish-scraper?fpr=939u3w&fp_sid=gh_profile) |
 
-### 📈 Search Trends & Reputation Intelligence
-| Engine | Description | Direct Run Link |
-| :--- | :--- | :---: |
-| **Google Trends Real-Time API** | Real-time trending searches, breakout keywords, historical interest curves, and geographic demand across 250+ countries. | [⚡ Run on Apify](https://apify.com/unitbytes/google-trends-api?fpr=939u3w) |
-| **Facebook Marketplace Scraper** | Used vehicles, rental housing, electronics, and local bargain deals with 40+ structured fields without login. | [⚡ Run on Apify](https://apify.com/unitbytes/Facebook-Marketplace-Scraper?fpr=939u3w) |
-| **Google Maps Reviews & Local Guides** | Deleted/edited review tracking, Local Guide contributor reputation audit, and reviewer photo galleries. | [⚡ Run on Apify](https://apify.com/unitbytes/google-maps-contributor-scraper?fpr=939u3w) |
-| **OfferUp & Craigslist Scrapers** | Nationwide US classifieds, used cars, and regional bargain discovery. | [⚡ Run on Apify](https://apify.com/unitbytes/offerup-scraper?fpr=939u3w) |
+### 📱 Social Trends & Community Data
+| Engine | Description | Pricing (PPE) | Direct Run Link |
+| :--- | :--- | :---: | :---: |
+| **Xiaohongshu All-in-One Scraper** | Viral posts, channel trends, creator intelligence, HD media & influencer vetting. | $0.0022 / item | [⚡ Run on Apify](https://apify.com/unitbytes/xiaohongshu-scraper?fpr=939u3w&fp_sid=gh_profile) |
+| **Xiaohongshu Trend Scraper** | Fast keyword search, trending feeds, and watermark-free media. | $0.0022 / item | [⚡ Run on Apify](https://apify.com/unitbytes/xiaohongshu-rednote-trend-scraper?fpr=939u3w&fp_sid=gh_profile) |
+| **Xiaohongshu Comments Scraper** | Deep nested comments, replies, verified likes, author IP and buyer sentiment. | $0.00249 / item | [⚡ Run on Apify](https://apify.com/unitbytes/xiaohongshu-rednote-comments-scraper?fpr=939u3w&fp_sid=gh_profile) |
+| **Reddit Posts & Search Scraper** | Keyword searches, subreddit feeds (hot/new/top), nested comment trees & media. | $0.001 / item | [⚡ Run on Apify](https://apify.com/unitbytes/reddit-scraper?fpr=939u3w&fp_sid=gh_profile) |
+
+### 🚗 Local Marketplaces & Classifieds
+| Engine | Description | Pricing (PPE) | Direct Run Link |
+| :--- | :--- | :---: | :---: |
+| **Facebook Marketplace Deals Scraper** | Used vehicles, rental housing, local bargain deals with 40+ structured attributes without login. | $0.002 / item | [⚡ Run on Apify](https://apify.com/unitbytes/Facebook-Marketplace-Scraper?fpr=939u3w&fp_sid=gh_profile) |
+| **Craigslist Leads & Classifieds** | Nationwide housing rentals, jobs, local gigs, and auto sales lead generation. | $0.0005 / item | [⚡ Run on Apify](https://apify.com/unitbytes/craigslist-scraper?fpr=939u3w&fp_sid=gh_profile) |
+| **OfferUp Marketplace Scraper** | Local classifieds, TruYou verified sellers, shipping availability, and instant deals. | $0.0008 / item | [⚡ Run on Apify](https://apify.com/unitbytes/offerup-scraper?fpr=939u3w&fp_sid=gh_profile) |
+
+### 📍 Local SEO & Reputation Intelligence
+| Engine | Description | Pricing (PPE) | Direct Run Link |
+| :--- | :--- | :---: | :---: |
+| **Google Maps Contributor Scraper** | Local Guide contributor level, badge audits, and historical cross-business reviews. | $0.002 / profile | [⚡ Run on Apify](https://apify.com/unitbytes/google-maps-contributor-scraper?fpr=939u3w&fp_sid=gh_profile) |
+| **Google Maps Photos Scraper** | Full-resolution geo-tagged contributor photos, photo views, and visual assets. | $0.002 / item | [⚡ Run on Apify](https://apify.com/unitbytes/google-maps-photos-scraper?fpr=939u3w&fp_sid=gh_profile) |
+| **Google Maps Reviews Tracker** | Real-time review alerts, deleted review auditing, and star rating fluctuations. | $0.0015 / item | [⚡ Run on Apify](https://apify.com/unitbytes/google-maps-reviews-tracker?fpr=939u3w&fp_sid=gh_profile) |
+
+### 📈 Search Intelligence & Market Trends
+| Engine | Description | Pricing (PPE) | Direct Run Link |
+| :--- | :--- | :---: | :---: |
+| **Google Trends Scraper** | Real-time search momentum, breakout queries, and geo-interest across 250+ countries. | $0.00045 / item | [⚡ Run on Apify](https://apify.com/unitbytes/google-trends-scraper?fpr=939u3w&fp_sid=gh_profile) |
+| **Google Trends API** | Programmatic REST API endpoints, real-time hourly spikes, and nested comparison queries. | $0.00045 / item | [⚡ Run on Apify](https://apify.com/unitbytes/google-trends-api?fpr=939u3w&fp_sid=gh_profile) |
 
 ---
 
