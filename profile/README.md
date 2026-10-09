@@ -18,7 +18,6 @@
 ---
 
 </div>
-
 ## 🚀 Production Fleet on Apify Store (17 Specialized Engines)
 
 All UnitBytes extraction engines are autonomous, tested against modern enterprise bot mitigation, and deployable in 1 click:
@@ -26,49 +25,64 @@ All UnitBytes extraction engines are autonomous, tested against modern enterpris
 ### 🛍️ APAC & Global E-Commerce Sourcing
 | Engine | Description | Pricing (PPE) | Direct Run Link |
 | :--- | :--- | :---: | :---: |
-| **1688.com Wholesale & Factory Scraper** | Direct Chinese factory pricing, MOQ thresholds, tiered volume price breaks, and supplier verification. | $0.0015 / item | [⚡ Run on Apify](https://apify.com/unitbytes/1688-scraper?fpr=939u3w&fp_sid=gh_profile) |
-| **Alibaba.com B2B Sourcing Scraper** | Verified Gold Suppliers, Trade Assurance guarantees, factory audit reports, and tiered FOB pricing. | $0.0015 / item | [⚡ Run on Apify](https://apify.com/unitbytes/alibaba-scraper?fpr=939u3w&fp_sid=gh_profile) |
-| **Taobao & Tmall Catalog Scraper** | Real retail prices, sales counts, merchant ratings, 100% cookieless HD images. | $0.0015 / item | [⚡ Run on Apify](https://apify.com/unitbytes/taobao-tmall-scraper?fpr=939u3w&fp_sid=gh_profile) |
-| **GooFish (闲鱼 Xianyu) Search Scraper** | C2C secondary market deals, authentic seller Zhima credit, response latency, and 150+ product fields. | $0.002 / item | [⚡ Run on Apify](https://apify.com/unitbytes/goofish-xianyu-search-scraper?fpr=939u3w&fp_sid=gh_profile) |
-| **GooFish Seller Inventory & Reviews** | Seller Zhima credit scores, positive feedback ratings, and active catalog inventory. | $0.0035 / item | [⚡ Run on Apify](https://apify.com/unitbytes/goofish-scraper?fpr=939u3w&fp_sid=gh_profile) |
+| **1688 Scraper: Fastest 1688.com Wholesale & Factory Finder 🇨🇳** | Unlock China primary factory wholesale marketplace. | $0.0015 / item | [⚡ Run on Apify](https://apify.com/unitbytes/1688-scraper?fpr=939u3w&fp_sid=gh_profile) |
+| **Alibaba Scraper ($0.0015) — Products, Tier Pricing & MOQ** | The ultimate supplier intelligence engine for Alibaba. | $0.0015 / item | [⚡ Run on Apify](https://apify.com/unitbytes/alibaba-scraper?fpr=939u3w&fp_sid=gh_profile) |
+| **Taobao & Tmall Search & Product Catalog Scraper 🛍️** | Extract live search results, product catalogs, shop verification metrics, and real transaction prices across Taobao (淘宝) and Tmall (天猫). | $0.0015 / item | [⚡ Run on Apify](https://apify.com/unitbytes/taobao-tmall-scraper?fpr=939u3w&fp_sid=gh_profile) |
+| **Goofish Scraper: 闲鱼 Xianyu (Idlefish) Search & Deals** | Tap into Alibaba secondary resale giant (闲鱼). | $0.002 / item | [⚡ Run on Apify](https://apify.com/unitbytes/goofish-xianyu-search-scraper?fpr=939u3w&fp_sid=gh_profile) |
+| **Goofish & Xianyu 闲鱼 Scraper: Search, Sellers & Reviews** | Audit high-volume power sellers, flippers, and merchant storefronts across GooFish (闲鱼). | $0.0035 / item | [⚡ Run on Apify](https://apify.com/unitbytes/goofish-scraper?fpr=939u3w&fp_sid=gh_profile) |
 
 ### 📱 Social Trends & Community Data
 | Engine | Description | Pricing (PPE) | Direct Run Link |
 | :--- | :--- | :---: | :---: |
-| **Xiaohongshu All-in-One Scraper** | Viral posts, channel trends, creator intelligence, HD media & influencer vetting. | $0.0022 / item | [⚡ Run on Apify](https://apify.com/unitbytes/xiaohongshu-scraper?fpr=939u3w&fp_sid=gh_profile) |
-| **Xiaohongshu Trend Scraper** | Fast keyword search, trending feeds, and watermark-free media. | $0.0022 / item | [⚡ Run on Apify](https://apify.com/unitbytes/xiaohongshu-rednote-trend-scraper?fpr=939u3w&fp_sid=gh_profile) |
-| **Xiaohongshu Comments Scraper** | Deep nested comments, replies, verified likes, author IP and buyer sentiment. | $0.00249 / item | [⚡ Run on Apify](https://apify.com/unitbytes/xiaohongshu-rednote-comments-scraper?fpr=939u3w&fp_sid=gh_profile) |
-| **Reddit Posts & Search Scraper** | Keyword searches, subreddit feeds (hot/new/top), nested comment trees & media. | $0.001 / item | [⚡ Run on Apify](https://apify.com/unitbytes/reddit-scraper?fpr=939u3w&fp_sid=gh_profile) |
+| **RedNote (Xiaohongshu / 小红书) Scraper: Posts, Trends & Creators** | All-in-one Xiaohongshu (RedNote / 小红书) data engine. | $0.0022 / item | [⚡ Run on Apify](https://apify.com/unitbytes/xiaohongshu-scraper?fpr=939u3w&fp_sid=gh_profile) |
+| **RedNote (Xiaohongshu / 小红书) Scraper: Fast Search, Posts & Media** | The definitive enterprise data engine for Xiaohongshu (小红书 / RedNote). | $0.0022 / item | [⚡ Run on Apify](https://apify.com/unitbytes/xiaohongshu-rednote-trend-scraper?fpr=939u3w&fp_sid=gh_profile) |
+| **Xiaohongshu (RedNote) Comments & Replies Scraper** | Extract full comment sections, nested replies, author profiles, and real consumer sentiment from Xiaohongshu (RedNote / 小红书) notes. | $0.00249 / item | [⚡ Run on Apify](https://apify.com/unitbytes/xiaohongshu-rednote-comments-scraper?fpr=939u3w&fp_sid=gh_profile) |
+| **Reddit Posts & Search Scraper (Fast & Cheap) [From $0.50💰]** | Extract high-velocity Reddit discussions, keyword searches, subreddit feeds, and full comment trees at scale. | $0.001 / item | [⚡ Run on Apify](https://apify.com/unitbytes/reddit-scraper?fpr=939u3w&fp_sid=gh_profile) |
 
 ### 🚗 Local Marketplaces & Classifieds
 | Engine | Description | Pricing (PPE) | Direct Run Link |
 | :--- | :--- | :---: | :---: |
-| **Facebook Marketplace Deals Scraper** | Used vehicles, rental housing, local bargain deals with 40+ structured attributes without login. | $0.002 / item | [⚡ Run on Apify](https://apify.com/unitbytes/Facebook-Marketplace-Scraper?fpr=939u3w&fp_sid=gh_profile) |
-| **Craigslist Leads & Classifieds** | Nationwide housing rentals, jobs, local gigs, and auto sales lead generation. | $0.0005 / item | [⚡ Run on Apify](https://apify.com/unitbytes/craigslist-scraper?fpr=939u3w&fp_sid=gh_profile) |
-| **OfferUp Marketplace Scraper** | Local classifieds, TruYou verified sellers, shipping availability, and instant deals. | $0.0008 / item | [⚡ Run on Apify](https://apify.com/unitbytes/offerup-scraper?fpr=939u3w&fp_sid=gh_profile) |
+| **Ultra Fast & Cheapest Facebook Marketplace Scraper** | Extract used vehicles, rental properties, electronics, and local resale bargains from Facebook Marketplace. | $0.002 / item | [⚡ Run on Apify](https://apify.com/unitbytes/Facebook-Marketplace-Scraper?fpr=939u3w&fp_sid=gh_profile) |
+| **Craigslist Scraper Worldwide: All Cities Subareas & Leads $0.50** | Extract classified listings across all Craigslist regional subdomains. | $0.0005 / item | [⚡ Run on Apify](https://apify.com/unitbytes/craigslist-scraper?fpr=939u3w&fp_sid=gh_profile) |
+| **OfferUp Scraper [From $0.80💰] Cars, Deals & Items** | Extract local resale listings and shipping deals across the OfferUp marketplace. | $0.0008 / item | [⚡ Run on Apify](https://apify.com/unitbytes/offerup-scraper?fpr=939u3w&fp_sid=gh_profile) |
 
 ### 📍 Local SEO & Reputation Intelligence
 | Engine | Description | Pricing (PPE) | Direct Run Link |
 | :--- | :--- | :---: | :---: |
-| **Google Maps Contributor Scraper** | Local Guide contributor level, badge audits, and historical cross-business reviews. | $0.002 / profile | [⚡ Run on Apify](https://apify.com/unitbytes/google-maps-contributor-scraper?fpr=939u3w&fp_sid=gh_profile) |
-| **Google Maps Photos Scraper** | Full-resolution geo-tagged contributor photos, photo views, and visual assets. | $0.002 / item | [⚡ Run on Apify](https://apify.com/unitbytes/google-maps-photos-scraper?fpr=939u3w&fp_sid=gh_profile) |
-| **Google Maps Reviews Tracker** | Real-time review alerts, deleted review auditing, and star rating fluctuations. | $0.0015 / item | [⚡ Run on Apify](https://apify.com/unitbytes/google-maps-reviews-tracker?fpr=939u3w&fp_sid=gh_profile) |
+| **Google Maps Reviewer Profile & Local Guide History Scraper** | Deep reputation intelligence for Google Maps. | $0.002 / profile | [⚡ Run on Apify](https://apify.com/unitbytes/google-maps-contributor-scraper?fpr=939u3w&fp_sid=gh_profile) |
+| **Google Maps Contributor & Local Guide Photos Scraper** | Extract authentic high-resolution imagery uploaded by Google Maps Local Guides and venue visitors. | $0.002 / item | [⚡ Run on Apify](https://apify.com/unitbytes/google-maps-photos-scraper?fpr=939u3w&fp_sid=gh_profile) |
+| **Google Maps Reviews Tracker: Check Removed & Edited Reviews** | Did Google delete your client's 5-star review, or did a reported fake review finally disappear? The dedicated data engine for Google Maps review lifecycle auditing, removal detection, and change monitoring. | $0.0015 / item | [⚡ Run on Apify](https://apify.com/unitbytes/google-maps-reviews-tracker?fpr=939u3w&fp_sid=gh_profile) |
 
 ### 📈 Search Intelligence & Market Trends
 | Engine | Description | Pricing (PPE) | Direct Run Link |
 | :--- | :--- | :---: | :---: |
-| **Google Trends Scraper** | Real-time search momentum, breakout queries, and geo-interest across 250+ countries. | $0.00045 / item | [⚡ Run on Apify](https://apify.com/unitbytes/google-trends-scraper?fpr=939u3w&fp_sid=gh_profile) |
-| **Google Trends API** | Programmatic REST API endpoints, real-time hourly spikes, and nested comparison queries. | $0.00045 / item | [⚡ Run on Apify](https://apify.com/unitbytes/google-trends-api?fpr=939u3w&fp_sid=gh_profile) |
+| **Google Trends Scraper: All-in-One Keywords & Trends 📈** | The definitive Google Trends automation engine with over 10,600+ successful runs. | $0.00045 / item | [⚡ Run on Apify](https://apify.com/unitbytes/google-trends-scraper?fpr=939u3w&fp_sid=gh_profile) |
+| **Google Trends : Real-Time & Historical Search Trends** | The definitive Google Trends automation engine with over 10,600+ successful runs. | $0.00045 / item | [⚡ Run on Apify](https://apify.com/unitbytes/google-trends-api?fpr=939u3w&fp_sid=gh_profile) |
 
 ---
-
 ## ⚡ Master 1-Click Task Directory (96 Ready-to-Run Presets)
 
 Skip manual configuration. Launch pre-configured, high-intent presets directly on Apify in 1 click or inspect full configuration details:
 
-### 🛍️ APAC & Global B2B E-Commerce Sourcing (42 Presets)
+### 🛍️ APAC & Global B2B Sourcing (42 Presets)
 
-#### 🇨🇳 1688.com Wholesale & Factory Scraper (12 Presets)
+#### GooFish (闲鱼) Search Deals Scraper (10 Presets)
+[Apify Actor Page](https://apify.com/unitbytes/goofish-xianyu-search-scraper?fpr=939u3w&fp_sid=gh_profile) • [GitHub Repository](https://github.com/unitbytes/Goofish-Xianyu-Scraper-API)
+
+| Preset / Use Case | Description | ⚡ Direct Run Link |
+| :--- | :--- | :---: |
+| **Find Used iPhones & Refurbished Apple Deals on Goofish (闲鱼)** | Extract iPhone 15, 14, and 13 listings on Goofish. Filter by price, seller Zhima credit, battery health specs, and clean plain-text descriptions. | [⚡ Run on Apify](https://apify.com/unitbytes/goofish-xianyu-search-scraper/examples/goofish-iphone-used-phones?fpr=939u3w&fp_sid=gh_profile) |
+| **Track Nintendo Switch OLED & Japanese Console Deals on Goofish** | Monitor Nintendo Switch OLED, PS5, and retro handhelds on Goofish. Extract Japanese import editions, bundled games, condition, and seller ratings. | [⚡ Run on Apify](https://apify.com/unitbytes/goofish-xianyu-search-scraper/examples/goofish-nintendo-switch-consoles?fpr=939u3w&fp_sid=gh_profile) |
+| **Source Anime Figures, Bandai & Pop Mart Collectibles on Goofish** | Search rare anime figures, garage kits, Pop Mart blind boxes, and authentic Japanese collectibles on Goofish. Get HD photo galleries and seller feedback. | [⚡ Run on Apify](https://apify.com/unitbytes/goofish-xianyu-search-scraper/examples/goofish-anime-figures-collectibles?fpr=939u3w&fp_sid=gh_profile) |
+| **Monitor RTX 4090, 4080 & Used Graphics Cards on Goofish** | Track secondary market prices for NVIDIA GeForce RTX 4090, 4080, and 3080 GPUs on Goofish. Detect price drops and vet seller transaction history. | [⚡ Run on Apify](https://apify.com/unitbytes/goofish-xianyu-search-scraper/examples/goofish-graphics-cards-gpu?fpr=939u3w&fp_sid=gh_profile) |
+| **Discover Vintage Leica, Canon & Sony Cameras on Goofish** | Find vintage 35mm film cameras, medium format bodies, Leica rangefinders, and vintage lenses on Goofish with high-resolution inspection photos. | [⚡ Run on Apify](https://apify.com/unitbytes/goofish-xianyu-search-scraper/examples/goofish-vintage-film-cameras?fpr=939u3w&fp_sid=gh_profile) |
+| **Track Second-Hand Luxury Bags, Streetwear & Sneakers on Goofish** | Monitor designer fashion, luxury handbags, and limited-edition sneakers on Goofish. Filter by appraisal service guarantee (`filterAppraise`) and condition. | [⚡ Run on Apify](https://apify.com/unitbytes/goofish-xianyu-search-scraper/examples/goofish-designer-luxury-fashion?fpr=939u3w&fp_sid=gh_profile) |
+| **Find DJI Drones, Action Cameras & Gimbals on Goofish** | Track DJI Mini, Mavic, Osmo Pocket, and action cameras on Goofish. Extract included accessories, fly time specs, and seller locations. | [⚡ Run on Apify](https://apify.com/unitbytes/goofish-xianyu-search-scraper/examples/goofish-dji-drones-cameras?fpr=939u3w&fp_sid=gh_profile) |
+| **Explore Custom Mechanical Keyboards, Keycaps & Audio on Goofish** | Source custom mechanical keyboards, artisan keycaps, switches, and audiophile gear from enthusiastic hobbyist sellers on Goofish. | [⚡ Run on Apify](https://apify.com/unitbytes/goofish-xianyu-search-scraper/examples/goofish-mechanical-keyboards?fpr=939u3w&fp_sid=gh_profile) |
+| **Filter Items from Verified Top-Credit Zhima Sellers on Goofish** | Enrich product searches with full seller metrics: Zhima credit ratings (`信用极好`), total items sold, positive feedback rates, and 24h response times. | [⚡ Run on Apify](https://apify.com/unitbytes/goofish-xianyu-search-scraper/examples/goofish-verified-zhima-sellers?fpr=939u3w&fp_sid=gh_profile) |
+| **Source Wholesale Liquidation Lots on Goofish** | Discover factory surplus, store closeouts, and bulk inventory bundles on Goofish for cross-border e-commerce arbitrage and resale. | [⚡ Run on Apify](https://apify.com/unitbytes/goofish-xianyu-search-scraper/examples/goofish-wholesale-liquidation-lots?fpr=939u3w&fp_sid=gh_profile) |
+
+#### 1688.com Wholesale & Factory Scraper (12 Presets)
 [Apify Actor Page](https://apify.com/unitbytes/1688-scraper?fpr=939u3w&fp_sid=gh_profile) • [GitHub Repository](https://github.com/unitbytes/1688-Wholesale-Scraper-API)
 
 | Preset / Use Case | Description | ⚡ Direct Run Link |
@@ -86,7 +100,18 @@ Skip manual configuration. Launch pre-configured, high-intent presets directly o
 | **1688 Amazon FBA & Cross-Border Bestsellers Sourcing** | Extract export-ready Amazon FBA and cross-border bestsellers with exact packaging unit weights in grams and fast dispatch guarantees. | [⚡ Run on Apify](https://apify.com/unitbytes/1688-scraper/examples/1688-cross-border-fba-bestsellers-sourcing?fpr=939u3w&fp_sid=gh_profile) |
 | **1688 Yiwu Small Commodities & Dollar Store Wholesale** | Scrape budget sundries, stationery, novelties, and impulse goods directly from the world largest wholesale hub: Yiwu International Trade Market. | [⚡ Run on Apify](https://apify.com/unitbytes/1688-scraper/examples/1688-small-commodities-yiwu-market?fpr=939u3w&fp_sid=gh_profile) |
 
-#### 📕 Xiaohongshu (RedNote) Trend & Social Scraper (10 Presets)
+#### GooFish (闲鱼) Seller Audit & Inventory Scraper (5 Presets)
+[Apify Actor Page](https://apify.com/unitbytes/goofish-scraper?fpr=939u3w&fp_sid=gh_profile) • [GitHub Repository](https://github.com/unitbytes/Goofish-Sellers-Reviews-Scraper)
+
+| Preset / Use Case | Description | ⚡ Direct Run Link |
+| :--- | :--- | :---: |
+| **Audit Seller Sold History & Clearing Prices on Goofish (闲鱼)** | Extract complete historical sold listings from any Goofish 闲鱼 (Xianyu / Idlefish) seller to analyze sales velocity, real clearing prices, turnover rate, and historical discount margins. | [⚡ Run on Apify](https://apify.com/unitbytes/goofish-scraper/examples/audit-seller-sold-history-pricing?fpr=939u3w&fp_sid=gh_profile) |
+| **Export Active Seller Product Catalog from Goofish (闲鱼)** | Scrape all currently active, on-sale product listings from any Goofish 闲鱼 (Xianyu / Idlefish) seller profile with prices, high-res photos, tags, and direct item links. | [⚡ Run on Apify](https://apify.com/unitbytes/goofish-scraper/examples/export-active-seller-catalog?fpr=939u3w&fp_sid=gh_profile) |
+| **Deep Goofish Seller Catalog & Spec Enrichment** | Deeply enrich Goofish seller listings with full plain-text descriptions, condition ratings, view/want statistics, seller location, and structured specifications dictionaries. | [⚡ Run on Apify](https://apify.com/unitbytes/goofish-scraper/examples/deep-seller-catalog-specs-enrichment?fpr=939u3w&fp_sid=gh_profile) |
+| **Seller Credibility, Trust & Zhima Credit Background Check** | Perform instant seller credibility background checks on Goofish (闲鱼 / Idlefish). Extract Zhima credit ratings, real-name verification badges, follower counts, and account age. | [⚡ Run on Apify](https://apify.com/unitbytes/goofish-scraper/examples/seller-trust-and-zhima-credit-check?fpr=939u3w&fp_sid=gh_profile) |
+| **Audit Goofish Seller Buyer Reviews & Rating Reputation** | Scrape comprehensive buyer feedback and rating reviews for any Goofish (闲鱼 / Xianyu) seller store. Extract buyer nicknames, review text, ratings, and purchase timestamps. | [⚡ Run on Apify](https://apify.com/unitbytes/goofish-scraper/examples/audit-seller-buyer-reviews-reputation?fpr=939u3w&fp_sid=gh_profile) |
+
+#### Xiaohongshu (RedNote) Scraper API (10 Presets)
 [Apify Actor Page](https://apify.com/unitbytes/xiaohongshu-rednote-trend-scraper?fpr=939u3w&fp_sid=gh_profile) • [GitHub Repository](https://github.com/unitbytes/Xiaohongshu-RedNote-Scraper-API)
 
 | Preset / Use Case | Description | ⚡ Direct Run Link |
@@ -102,35 +127,8 @@ Skip manual configuration. Launch pre-configured, high-intent presets directly o
 | **Xiaohongshu Consumer Sentiment & Feedback (真实测评)** | Extract authentic customer feedback, purchase intent keywords ('where to buy', 'price inquiry'), praise, and complaints on Xiaohongshu for market research. | [⚡ Run on Apify](https://apify.com/unitbytes/xiaohongshu-rednote-trend-scraper/examples/xiaohongshu-buyer-sentiment-analyzer?fpr=939u3w&fp_sid=gh_profile) |
 | **Xiaohongshu Influencer & KOL Tracker (博主发现)** | Identify top creators, KOLs, and KOCs across niches on Xiaohongshu RedNote. Scrape author profile URLs, RED IDs, engagement rates, and viral scores for influencer marketing. | [⚡ Run on Apify](https://apify.com/unitbytes/xiaohongshu-rednote-trend-scraper/examples/xiaohongshu-influencer-kol-tracker?fpr=939u3w&fp_sid=gh_profile) |
 
-#### 🐟 GooFish (闲鱼 Xianyu) C2C Search Scraper (10 Presets)
-[Apify Actor Page](https://apify.com/unitbytes/goofish-xianyu-search-scraper?fpr=939u3w&fp_sid=gh_profile) • [GitHub Repository](https://github.com/unitbytes/Goofish-Xianyu-Scraper-API)
-
-| Preset / Use Case | Description | ⚡ Direct Run Link |
-| :--- | :--- | :---: |
-| **Find Used iPhones & Refurbished Apple Deals on Goofish (闲鱼)** | Extract iPhone 15, 14, and 13 listings on Goofish. Filter by price, seller Zhima credit, battery health specs, and clean plain-text descriptions. | [⚡ Run on Apify](https://apify.com/unitbytes/goofish-xianyu-search-scraper/examples/goofish-iphone-used-phones?fpr=939u3w&fp_sid=gh_profile) |
-| **Track Nintendo Switch OLED & Japanese Console Deals on Goofish** | Monitor Nintendo Switch OLED, PS5, and retro handhelds on Goofish. Extract Japanese import editions, bundled games, condition, and seller ratings. | [⚡ Run on Apify](https://apify.com/unitbytes/goofish-xianyu-search-scraper/examples/goofish-nintendo-switch-consoles?fpr=939u3w&fp_sid=gh_profile) |
-| **Source Anime Figures, Bandai & Pop Mart Collectibles on Goofish** | Search rare anime figures, garage kits, Pop Mart blind boxes, and authentic Japanese collectibles on Goofish. Get HD photo galleries and seller feedback. | [⚡ Run on Apify](https://apify.com/unitbytes/goofish-xianyu-search-scraper/examples/goofish-anime-figures-collectibles?fpr=939u3w&fp_sid=gh_profile) |
-| **Monitor RTX 4090, 4080 & Used Graphics Cards on Goofish** | Track secondary market prices for NVIDIA GeForce RTX 4090, 4080, and 3080 GPUs on Goofish. Detect price drops and vet seller transaction history. | [⚡ Run on Apify](https://apify.com/unitbytes/goofish-xianyu-search-scraper/examples/goofish-graphics-cards-gpu?fpr=939u3w&fp_sid=gh_profile) |
-| **Discover Vintage Leica, Canon & Sony Cameras on Goofish** | Find vintage 35mm film cameras, medium format bodies, Leica rangefinders, and vintage lenses on Goofish with high-resolution inspection photos. | [⚡ Run on Apify](https://apify.com/unitbytes/goofish-xianyu-search-scraper/examples/goofish-vintage-film-cameras?fpr=939u3w&fp_sid=gh_profile) |
-| **Track Second-Hand Luxury Bags, Streetwear & Sneakers on Goofish** | Monitor designer fashion, luxury handbags, and limited-edition sneakers on Goofish. Filter by appraisal service guarantee (`filterAppraise`) and condition. | [⚡ Run on Apify](https://apify.com/unitbytes/goofish-xianyu-search-scraper/examples/goofish-designer-luxury-fashion?fpr=939u3w&fp_sid=gh_profile) |
-| **Find DJI Drones, Action Cameras & Gimbals on Goofish** | Track DJI Mini, Mavic, Osmo Pocket, and action cameras on Goofish. Extract included accessories, fly time specs, and seller locations. | [⚡ Run on Apify](https://apify.com/unitbytes/goofish-xianyu-search-scraper/examples/goofish-dji-drones-cameras?fpr=939u3w&fp_sid=gh_profile) |
-| **Explore Custom Mechanical Keyboards, Keycaps & Audio on Goofish** | Source custom mechanical keyboards, artisan keycaps, switches, and audiophile gear from enthusiastic hobbyist sellers on Goofish. | [⚡ Run on Apify](https://apify.com/unitbytes/goofish-xianyu-search-scraper/examples/goofish-mechanical-keyboards?fpr=939u3w&fp_sid=gh_profile) |
-| **Filter Items from Verified Top-Credit Zhima Sellers on Goofish** | Enrich product searches with full seller metrics: Zhima credit ratings (`信用极好`), total items sold, positive feedback rates, and 24h response times. | [⚡ Run on Apify](https://apify.com/unitbytes/goofish-xianyu-search-scraper/examples/goofish-verified-zhima-sellers?fpr=939u3w&fp_sid=gh_profile) |
-| **Source Wholesale Liquidation Lots on Goofish** | Discover factory surplus, store closeouts, and bulk inventory bundles on Goofish for cross-border e-commerce arbitrage and resale. | [⚡ Run on Apify](https://apify.com/unitbytes/goofish-xianyu-search-scraper/examples/goofish-wholesale-liquidation-lots?fpr=939u3w&fp_sid=gh_profile) |
-
-#### 🏪 GooFish (闲鱼) Seller Audit & Reviews Scraper (5 Presets)
-[Apify Actor Page](https://apify.com/unitbytes/goofish-scraper?fpr=939u3w&fp_sid=gh_profile) • [GitHub Repository](https://github.com/unitbytes/Goofish-Sellers-Reviews-Scraper)
-
-| Preset / Use Case | Description | ⚡ Direct Run Link |
-| :--- | :--- | :---: |
-| **Audit Seller Sold History & Clearing Prices on Goofish (闲鱼)** | Extract complete historical sold listings from any Goofish 闲鱼 (Xianyu / Idlefish) seller to analyze sales velocity, real clearing prices, turnover rate, and historical discount margins. | [⚡ Run on Apify](https://apify.com/unitbytes/goofish-scraper/examples/audit-seller-sold-history-pricing?fpr=939u3w&fp_sid=gh_profile) |
-| **Export Active Seller Product Catalog from Goofish (闲鱼)** | Scrape all currently active, on-sale product listings from any Goofish 闲鱼 (Xianyu / Idlefish) seller profile with prices, high-res photos, tags, and direct item links. | [⚡ Run on Apify](https://apify.com/unitbytes/goofish-scraper/examples/export-active-seller-catalog?fpr=939u3w&fp_sid=gh_profile) |
-| **Deep Goofish Seller Catalog & Spec Enrichment** | Deeply enrich Goofish seller listings with full plain-text descriptions, condition ratings, view/want statistics, seller location, and structured specifications dictionaries. | [⚡ Run on Apify](https://apify.com/unitbytes/goofish-scraper/examples/deep-seller-catalog-specs-enrichment?fpr=939u3w&fp_sid=gh_profile) |
-| **Seller Credibility, Trust & Zhima Credit Background Check** | Perform instant seller credibility background checks on Goofish (闲鱼 / Idlefish). Extract Zhima credit ratings, real-name verification badges, follower counts, and account age. | [⚡ Run on Apify](https://apify.com/unitbytes/goofish-scraper/examples/seller-trust-and-zhima-credit-check?fpr=939u3w&fp_sid=gh_profile) |
-| **Audit Goofish Seller Buyer Reviews & Rating Reputation** | Scrape comprehensive buyer feedback and rating reviews for any Goofish (闲鱼 / Xianyu) seller store. Extract buyer nicknames, review text, ratings, and purchase timestamps. | [⚡ Run on Apify](https://apify.com/unitbytes/goofish-scraper/examples/audit-seller-buyer-reviews-reputation?fpr=939u3w&fp_sid=gh_profile) |
-
-#### 🌐 Alibaba.com B2B Sourcing & Factory Scraper (5 Presets)
-[Apify Actor Page](https://apify.com/unitbytes/alibaba-scraper?fpr=939u3w&fp_sid=gh_profile)
+#### Alibaba.com B2B Sourcing Scraper (5 Presets)
+[Apify Actor Page](https://apify.com/unitbytes/alibaba-scraper?fpr=939u3w&fp_sid=gh_profile) • [GitHub Repository](https://github.com/unitbytes/Alibaba-Actor-Private-Source-Code)
 
 | Preset / Use Case | Description | ⚡ Direct Run Link |
 | :--- | :--- | :---: |
@@ -142,7 +140,7 @@ Skip manual configuration. Launch pre-configured, high-intent presets directly o
 
 ### 🚗 US Local Classifieds & Vehicles (21 Presets)
 
-#### 🚙 Facebook Marketplace Scraper (8 Presets)
+#### Facebook Marketplace Scraper (8 Presets)
 [Apify Actor Page](https://apify.com/unitbytes/Facebook-Marketplace-Scraper?fpr=939u3w&fp_sid=gh_profile) • [GitHub Repository](https://github.com/unitbytes/Facebook-Marketplace-Scraper-API)
 
 | Preset / Use Case | Description | ⚡ Direct Run Link |
@@ -156,7 +154,7 @@ Skip manual configuration. Launch pre-configured, high-intent presets directly o
 | **Monitor Deals on Furniture, Tools & Home Goods** | Track bargain furniture, power tools, and home appliances posted on FB Marketplace for fast local pickup and flipping. | [⚡ Run on Apify](https://apify.com/unitbytes/Facebook-Marketplace-Scraper/examples/furniture-home-goods-deals?fpr=939u3w&fp_sid=gh_profile) |
 | **Track Competitor Dealership Inventory & Price Drops** | Monitor dealer listings in your metro area to benchmark inventory levels, newly posted vehicles, and competitive pricing. | [⚡ Run on Apify](https://apify.com/unitbytes/Facebook-Marketplace-Scraper/examples/competitor-dealer-listing-tracker?fpr=939u3w&fp_sid=gh_profile) |
 
-#### 🏷️ OfferUp Local Classifieds Scraper (6 Presets)
+#### OfferUp Local Deals & Cars Scraper (6 Presets)
 [Apify Actor Page](https://apify.com/unitbytes/offerup-scraper?fpr=939u3w&fp_sid=gh_profile)
 
 | Preset / Use Case | Description | ⚡ Direct Run Link |
@@ -168,7 +166,7 @@ Skip manual configuration. Launch pre-configured, high-intent presets directly o
 | **Find MacBook Pro & Laptop Deals on OfferUp** | Monitor MacBook Pro and laptop bargains with price, seller response time, and specs. | [⚡ Run on Apify](https://apify.com/unitbytes/offerup-scraper/examples/macbook-pro-laptop-deals?fpr=939u3w&fp_sid=gh_profile) |
 | **Find PS5 & Gaming Console Deals** | Extract PlayStation 5, Xbox Series X, and Nintendo Switch console listings with seller history. | [⚡ Run on Apify](https://apify.com/unitbytes/offerup-scraper/examples/playstation-ps5-and-gaming-deals?fpr=939u3w&fp_sid=gh_profile) |
 
-#### 📰 Craigslist Nationwide Classifieds Scraper (7 Presets)
+#### Craigslist Nationwide Classifieds Scraper (7 Presets)
 [Apify Actor Page](https://apify.com/unitbytes/craigslist-scraper?fpr=939u3w&fp_sid=gh_profile)
 
 | Preset / Use Case | Description | ⚡ Direct Run Link |
@@ -181,9 +179,9 @@ Skip manual configuration. Launch pre-configured, high-intent presets directly o
 | **Find Apple iPhones & MacBooks on Craigslist for Resale** | Discover discounted Apple MacBooks, iPhones, iPads, and AirPods for e-commerce flipping and resale arbitrage on eBay, Amazon, or Mercari. | [⚡ Run on Apify](https://apify.com/unitbytes/craigslist-scraper/examples/craigslist-apple-macbook-iphone?fpr=939u3w&fp_sid=gh_profile) |
 | **Scrape Free Stuff & Curbside Deals on Craigslist** | Monitor the Craigslist Free section (zip) in real-time. Catch curbside pickups, scrap metal, building materials, and free items before anyone else. | [⚡ Run on Apify](https://apify.com/unitbytes/craigslist-scraper/examples/craigslist-free-stuff-curbside-deals?fpr=939u3w&fp_sid=gh_profile) |
 
-### 📍 Google Maps Reputation & Local Guide Intelligence (19 Presets)
+### 📍 Google Maps Reputation & Intelligence (19 Presets)
 
-#### ⭐ Google Maps Reviews Tracker & Removal Audit (8 Presets)
+#### Google Maps Reviews Tracker & Audit (8 Presets)
 [Apify Actor Page](https://apify.com/unitbytes/google-maps-reviews-tracker?fpr=939u3w&fp_sid=gh_profile)
 
 | Preset / Use Case | Description | ⚡ Direct Run Link |
@@ -197,7 +195,7 @@ Skip manual configuration. Launch pre-configured, high-intent presets directly o
 | **Track Google Review Star Rating & Text Edits** | Detect when customer ratings change (e.g. 1-star upgraded to 4-star or vice versa). Extracts full original text, translated text, and exact star counts. | [⚡ Run on Apify](https://apify.com/unitbytes/google-maps-reviews-tracker/examples/review-star-rating-change-detector?fpr=939u3w&fp_sid=gh_profile) |
 | **Monitor Competitor Review Takedowns & Spam Cleanups** | Track suspicious competitor reviews to detect if Google's spam filters delete incentivized 5-star reviews or mass negative attacks. | [⚡ Run on Apify](https://apify.com/unitbytes/google-maps-reviews-tracker/examples/competitor-negative-review-monitor?fpr=939u3w&fp_sid=gh_profile) |
 
-#### 👤 Google Maps Local Guide Contributor Scraper (5 Presets)
+#### Google Maps Local Guide Contributor Scraper (5 Presets)
 [Apify Actor Page](https://apify.com/unitbytes/google-maps-contributor-scraper?fpr=939u3w&fp_sid=gh_profile)
 
 | Preset / Use Case | Description | ⚡ Direct Run Link |
@@ -208,7 +206,7 @@ Skip manual configuration. Launch pre-configured, high-intent presets directly o
 | **Find Local Food & Restaurant Influencers on Google Maps** | Identify Level 6-10 food critics and culinary Local Guides with hundreds of high-quality dining reviews and uploaded photos. | [⚡ Run on Apify](https://apify.com/unitbytes/google-maps-contributor-scraper/examples/find-food-restaurant-influencers?fpr=939u3w&fp_sid=gh_profile) |
 | **Scout Travel & Hotel Local Guides for Tourism Marketing** | Find prolific travel reviewers and hospitality Local Guides who frequently review resorts, boutique hotels, and tourist attractions. | [⚡ Run on Apify](https://apify.com/unitbytes/google-maps-contributor-scraper/examples/travel-hotel-reviewer-scout?fpr=939u3w&fp_sid=gh_profile) |
 
-#### 📸 Google Maps Photos Scraper (6 Presets)
+#### Google Maps Contributor Photos Scraper (6 Presets)
 [Apify Actor Page](https://apify.com/unitbytes/google-maps-photos-scraper?fpr=939u3w&fp_sid=gh_profile)
 
 | Preset / Use Case | Description | ⚡ Direct Run Link |
@@ -222,7 +220,7 @@ Skip manual configuration. Launch pre-configured, high-intent presets directly o
 
 ### 📈 Search Trends & Viral Keywords (14 Presets)
 
-#### ⚡ Google Trends Real-Time API (8 Presets)
+#### Google Trends Real-Time & Historical API (8 Presets)
 [Apify Actor Page](https://apify.com/unitbytes/google-trends-api?fpr=939u3w&fp_sid=gh_profile) • [GitHub Repository](https://github.com/unitbytes/Google-Trends-Scraper-API)
 
 | Preset / Use Case | Description | ⚡ Direct Run Link |
@@ -236,20 +234,19 @@ Skip manual configuration. Launch pre-configured, high-intent presets directly o
 | **Track Viral News Keywords on Google News** | Pull trending queries and related topics from Google News search. Automate news keyword extraction to optimize search engine visibility | [⚡ Run on Apify](https://apify.com/unitbytes/google-trends-api/examples?fpr=939u3w&fp_sid=gh_profile) |
 | **Extract Trending YouTube Video Topics & Keywords** | Discover fast-rising video topics, viral queries, and breakout search terms to optimize YouTube video tags, titles, and SEO. | [⚡ Run on Apify](https://apify.com/unitbytes/google-trends-api/examples?fpr=939u3w&fp_sid=gh_profile) |
 
-#### 📊 Google Trends Historical & Regional Scraper (6 Presets)
+#### Google Trends Historical & Regional Scraper (6 Presets)
 [Apify Actor Page](https://apify.com/unitbytes/google-trends-scraper?fpr=939u3w&fp_sid=gh_profile) • [GitHub Repository](https://github.com/unitbytes/google_trends_scraper)
 
 | Preset / Use Case | Description | ⚡ Direct Run Link |
 | :--- | :--- | :---: |
-| **Compare Brand & Competitor Interest Over Time** | Track and compare multi-keyword historical search interest over 12 months to analyze market share, brand awareness, and seasonal peaks. | [⚡ Run on Apify](https://apify.com/unitbytes/google-trends-scraper/examples?fpr=939u3w&fp_sid=gh_profile) |
-| **Discover Rising & Breakout SEO Keywords with Google Trends** | Extract breakout queries, surging search terms, and top related keywords for any seed topic to optimize content and SEO strategies. | [⚡ Run on Apify](https://apify.com/unitbytes/google-trends-scraper/examples?fpr=939u3w&fp_sid=gh_profile) |
-| **Analyze Geographic Search Demand by State & Region** | Map search interest across US states, DMAs, or international regions to optimize geo-targeted Google Ads and local product launches. | [⚡ Run on Apify](https://apify.com/unitbytes/google-trends-scraper/examples?fpr=939u3w&fp_sid=gh_profile) |
-| **Monitor Real-Time Viral Search Trends & Breaking Topics** | Fetch hourly breakout queries, viral news events, and real-time trending Google searches to power news feeds, alerts, and content ideas. | [⚡ Run on Apify](https://apify.com/unitbytes/google-trends-scraper/examples?fpr=939u3w&fp_sid=gh_profile) |
-| **Extract Semantic SEO Related Topics & Knowledge Entities** | Discover related topical entities and concepts recognized by Google's Knowledge Graph to build topical authority and content clusters. | [⚡ Run on Apify](https://apify.com/unitbytes/google-trends-scraper/examples?fpr=939u3w&fp_sid=gh_profile) |
-| **Track YouTube Search Interest & Video Keyword Trends** | Analyze video search behavior on YouTube specifically to discover video topics, tutorial demand, and creator content niches. | [⚡ Run on Apify](https://apify.com/unitbytes/google-trends-scraper/examples?fpr=939u3w&fp_sid=gh_profile) |
+| **Compare Brand & Competitor Interest Over Time** | Track and compare multi-keyword historical search interest over 12 months to analyze market share, brand awareness, and seasonal peaks. | [⚡ Run on Apify](https://apify.com/unitbytes/google-trends-scraper/examples/compare-brand-interest-over-time?fpr=939u3w&fp_sid=gh_profile) |
+| **Discover Rising & Breakout SEO Keywords with Google Trends** | Extract breakout queries, surging search terms, and top related keywords for any seed topic to optimize content and SEO strategies. | [⚡ Run on Apify](https://apify.com/unitbytes/google-trends-scraper/examples/rising-breakout-keywords-finder?fpr=939u3w&fp_sid=gh_profile) |
+| **Analyze Geographic Search Demand by State & Region** | Map search interest across US states, DMAs, or international regions to optimize geo-targeted Google Ads and local product launches. | [⚡ Run on Apify](https://apify.com/unitbytes/google-trends-scraper/examples/state-level-regional-demand-heatmap?fpr=939u3w&fp_sid=gh_profile) |
+| **Monitor Real-Time Viral Search Trends & Breaking Topics** | Fetch hourly breakout queries, viral news events, and real-time trending Google searches to power news feeds, alerts, and content ideas. | [⚡ Run on Apify](https://apify.com/unitbytes/google-trends-scraper/examples/realtime-trending-searches-monitor?fpr=939u3w&fp_sid=gh_profile) |
+| **Extract Semantic SEO Related Topics & Knowledge Entities** | Discover related topical entities and concepts recognized by Google's Knowledge Graph to build topical authority and content clusters. | [⚡ Run on Apify](https://apify.com/unitbytes/google-trends-scraper/examples/semantic-seo-related-topics?fpr=939u3w&fp_sid=gh_profile) |
+| **Track YouTube Search Interest & Video Keyword Trends** | Analyze video search behavior on YouTube specifically to discover video topics, tutorial demand, and creator content niches. | [⚡ Run on Apify](https://apify.com/unitbytes/google-trends-scraper/examples/youtube-search-interest-trends?fpr=939u3w&fp_sid=gh_profile) |
 
 ---
-
 ## 🛡️ Core Engineering Advantages
 
 - **Zero-Cookie Anonymous Guarantee:** Never risk account bans or credential leakage. Our engines operate 100% anonymously without login cookies.
